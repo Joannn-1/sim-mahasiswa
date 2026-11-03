@@ -1,0 +1,1 @@
+Python adalah bahasa pemrograman yang populer. Python mudah dipelajari dan Python banyak digunakan untuk analisis data. Dalam Sistem Informasi, data adalah aset penting, dan bahasa Python membantu mengolah data dengan cepat dan efisien. Mahasiswa yang belajar Python akan memahami struktur data seperti list, tuple, set, dan dictionary.
